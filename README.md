@@ -3,4 +3,4 @@ Solving the leetcode 150 problems
 
 | Problem Name     | Difficulty | Solution |
 |-----------------|------------|----------|
-| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [mergesortedarrays.py](solutions/two_sum.py) |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [mergesortedarrays.py](mergearray) |

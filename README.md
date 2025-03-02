@@ -4,3 +4,4 @@ Solving the leetcode 150 problems
 | Problem Name     | Difficulty | Solution |
 |-----------------|------------|----------|
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [solution](Merge_Array/) |
+| [Remove Element](https://leetcode.com/problems/remove_element/) | Easy | [solution](Remove_Element/) |

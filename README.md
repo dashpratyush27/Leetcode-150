@@ -5,3 +5,5 @@ Solving the leetcode 150 problems
 |-----------------|------------|----------|
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [solution](Merge_Array/) |
 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [solution](Remove_Element/) |
+| [Remove Duplicate Elements From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [solution](Remove-Duplicae-Element-From-Sorted-Array/) |
+
